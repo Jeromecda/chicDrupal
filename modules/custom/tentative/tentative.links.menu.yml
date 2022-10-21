@@ -1,0 +1,5 @@
+tentative.page_menu:
+  title: 'Tentative'
+  description: 'lien vers tentative'
+  route_name: tentative.page
+  menu_name: main

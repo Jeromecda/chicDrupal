@@ -1,0 +1,16 @@
+<?php 
+
+/**
+ * Implements hook_theme().
+ */
+function tentative_theme($existing, $type, $theme, $path) {
+  return [
+    'my_template' => [
+      'variables' => [
+        'version' => NULL,
+        'data' => [],
+    ],
+    ],
+  ];
+}
+

@@ -1,0 +1,6 @@
+welcome.page_menu:
+  title: 'Welcome'
+  description: 'Lien vers Welcome'
+  # On indique ici le nom donné dans "welcome.routing.yml"
+  route_name: welcome.page
+  menu_name: main

@@ -1,0 +1,6 @@
+name: Tentative
+core_version_requirement: ^8 || ^9
+core: 8.x
+type: module
+package: Mes Modules
+description: Gestion d'un bloc avec bloc bloc bloc

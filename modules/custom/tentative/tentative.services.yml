@@ -1,0 +1,3 @@
+services:
+  tentative.service:
+    class: Drupal\tentative\Service\TentativeService
